@@ -8,6 +8,11 @@
     font-style: italic;
 }
 
+body{
+    background-color: e6f3ff;
+    padding: 12%;
+}
+
 img{
     float: right;
 }
